@@ -1,6 +1,24 @@
 # Challenge Alura Latam - G8 ONE
 ## Telecom X - Análisis de Evasión de Clientes
 
+## Propósito del Proyecto
+
+Este proyecto analiza la **evasión de clientes (churn)** en una empresa de telecomunicaciones con el objetivo de identificar patrones y factores que influyen en la pérdida de clientes. El análisis busca generar insights para diseñar estrategias que reduzcan el churn y mejoren la fidelización.
+
+## Estructura del Proyecto
+
+- `TelecomX_LATAM.ipynb` : Notebook principal con el análisis completo, incluyendo limpieza de datos, análisis exploratorio y visualizaciones.
+- `data/` : Carpeta que contiene los archivos de datos originales y procesados.
+- `README.md` : Este archivo, que describe el proyecto y cómo usarlo.
+
+
+## Instrucciones para Ejecutar el Notebook
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/https://github.com/eduardo-mendiola/challenge-telecomx-alura
+   cd telecom-x
+
 # Informe Final – Análisis de Evasión de Clientes (Churn)
 
 ## Introducción
